@@ -1,0 +1,8 @@
+2023-06-12 10:36:34.152 [main] INFO  BaseTest.class - this is a info 
+2023-06-12 10:36:34.158 [main] ERROR BaseTest.class - this is a error
+2023-06-12 10:36:34.159 [main] FATAL BaseTest.class - this is a fatal
+2023-06-12 10:36:34.159 [main] WARN  BaseTest.class - this is a warning
+2023-06-12 10:51:11.930 [main] INFO  BaseTest.class - this is a info 
+2023-06-12 10:51:11.935 [main] ERROR BaseTest.class - this is a error
+2023-06-12 10:51:11.935 [main] FATAL BaseTest.class - this is a fatal
+2023-06-12 10:51:11.935 [main] WARN  BaseTest.class - this is a warning
